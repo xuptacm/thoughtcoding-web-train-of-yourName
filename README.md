@@ -1,5 +1,5 @@
-# thoughtcoding-web-train-of-yourName
-thoughtcoding ­web ­train ­of ­your Name
+# thoughtcoding-web-train-of-Reginald
+thoughtcoding ­web ­train ­of ­Reginald
 ## 未来学习规划 ##
 
  - 注册Github账号并建立一个个人仓库，名称为thoughtcoding­web­train­of­yourName；
